@@ -1,4 +1,5 @@
-# 注意CTC LOSS
+#参考文献：学习CTC LOSS
+（1）http://nooverfit.com/wp/ctc%E7%9A%84%E7%9B%B4%E8%A7%82%E7%90%86%E8%A7%A3%EF%BC%88connectionist-temporal-classification%E8%BF%9E%E6%8E%A5%E6%97%B6%E5%BA%8F%E5%88%86%E7%B1%BB%EF%BC%89%EF%BC%8C%E5%8D%95%E8%A1%8C%E6%96%87/
 
 # LPRNet_Pytorch
 Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.  
