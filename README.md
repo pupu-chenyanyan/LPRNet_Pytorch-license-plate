@@ -1,3 +1,5 @@
+# 注意CTC LOSS
+
 # LPRNet_Pytorch
 Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.  
 完全适用于中国车牌识别（Chinese License Plate Recognition）及国外车牌识别！  
